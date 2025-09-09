@@ -22,5 +22,7 @@ https://github.com/mansurby/TNDO-Assignments.git
 The code approximates \(y\) at \(x = 0.2\) for each method. You can compare the results to see how step size and method affect accuracy.
 
 pip install -r requirements.txt
+
+python RK_45.py
 python RK_45.py
 
